@@ -123,9 +123,7 @@ Dados financeiros são sensíveis: armazenar apenas o necessário, avisar o usu�
 
 Usei um assistente de IA para revisar o PRD. Ele apontou que faltavam histórias de usuário, tratamento de estados vazios e erros, métricas de sucesso e cuidados com privacidade, e eu incorporei esses pontos na versão final.
 
-<!-- INSERIR AQUI: prints da conversa de refinamento -->
-![Refinamento do prompt - versão 1](./imagens/refinamento-01.png)
-![Refinamento do prompt - versão final](./imagens/refinamento-02.png)
+O histórico completo da evolução do prompt (v1 a v5) está na tabela da seção 2.
 
 ### Lovable (geração do protótipo)
 
@@ -157,8 +155,6 @@ Se eu fosse continuar, o próximo passo seria conectar um backend real, testar o
 ```
 ├── README.md
 └── imagens/
-    ├── refinamento-01.png
-    ├── refinamento-02.png
     ├── lovable-dashboard.png
     ├── lovable-chat.png
     └── lovable-plano.png
