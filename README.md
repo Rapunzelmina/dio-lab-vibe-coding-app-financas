@@ -134,7 +134,7 @@ Usei um assistente de IA para revisar o PRD. Ele apontou que faltavam histórias
 ![Lovable - Chat com a Clara](./imagens/lovable-chat.png)
 ![Lovable - Plano de economia](./imagens/lovable-plano.png)
 
-🔗 Link do protótipo: _inserir link do projeto no Lovable_
+🔗 Link do protótipo:(https://screenshot-to-spark-6116.lovable.app)
 
 ---
 
